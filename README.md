@@ -2,7 +2,7 @@
 A minimal starter template using pure Tailwind CSS v4. No build tools, just clean and simple development.
 
 - 📅 July 9, 2025
-- 👤 Andriy Ovcharov
+- 🧑‍💻 Andriy Ovcharov
 
 ---
 
