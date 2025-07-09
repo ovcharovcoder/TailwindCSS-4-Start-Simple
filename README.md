@@ -57,4 +57,4 @@ src/
 1. `npm i` – Install all dependencies
 2. `npm run watch` – Start development mode with file watcher
 3. Launch **Live Server** in your code editor (e.g., VS Code)
-4. `npm run build` – Build the project for production (style.css)
+4. `npm run build` – Build the project for production (style.css only)
