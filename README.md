@@ -16,7 +16,7 @@ This project is built with the following tools and technologies:
 ---
 
 ## Project structure
-
+```
 src/
 │
 ├── css/
@@ -33,7 +33,7 @@ src/
 │ └── main.js # JavaScript entry point
 │
 └── index.html # Main HTML page (additional pages also stored here)
-
+```
 ---
 
 ## Best Practices
