@@ -1,5 +1,3 @@
-# TailwindCSS-4-Start-Simple
-
 # TailwindCSS-4: Start Simple
 
 📅 July 9, 2025
