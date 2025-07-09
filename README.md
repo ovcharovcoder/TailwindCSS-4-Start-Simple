@@ -1,4 +1,5 @@
 # TailwindCSS-4: Start Simple
+Minimal Tailwind CSS v4 boilerplate with Live Server – fast, clean, and tool-free.
 
 - 📅 July 9, 2025
 - 👤 Andriy Ovcharov
