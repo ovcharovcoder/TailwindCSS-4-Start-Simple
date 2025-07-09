@@ -61,4 +61,4 @@ src/
 
 ---
 
-Happy coding!
+🧑‍💻 Happy coding!
