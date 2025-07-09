@@ -1,7 +1,7 @@
 # TailwindCSS-4: Start Simple
 
-📅 July 9, 2025
-👤 Andriy Ovcharov
+- 📅 July 9, 2025
+- 👤 Andriy Ovcharov
 
 ---
 
