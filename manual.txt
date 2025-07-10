@@ -65,9 +65,6 @@ margin-right: auto;
 }
 }
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 ------------------------										  
 
