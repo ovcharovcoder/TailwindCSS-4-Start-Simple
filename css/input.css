@@ -1,1 +1,39 @@
-sdfsdf
+@config "../tailwind.config.js";
+@import 'tailwindcss';
+
+/* ======================= */
+/* Root & Theme Tokens  */
+/* ======================= */
+@layer base {
+  :root {...}
+
+  /* Optional base typography or resets */
+}
+
+/* ======================= */
+/* Component Layouts    */
+/* ======================= */
+/* Layout containers */
+@layer components {
+  .container-custom {
+  max-width: 1190px;
+  padding: 0 15px;
+  margin: 0 auto;
+  }
+}
+ 
+
+/* ======================= */
+/* UI Interactions     */
+/* ======================= */
+@layer utilities {...}
+
+/* ======================= */
+/* Third-party Plugins  */
+/* ======================= */
+...
+
+/* ======================= */
+/* Responsive Tweaks    */
+/* ======================= */
+...
