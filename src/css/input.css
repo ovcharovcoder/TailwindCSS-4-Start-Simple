@@ -14,7 +14,13 @@
 /* Component Layouts    */
 /* ======================= */
 /* Layout containers */
-@layer components {...}
+@layer components {
+  .container-custom {
+  max-width: 1190px;
+  padding: 0 15px;
+  margin: 0 auto;
+  }
+}
  
 
 /* ======================= */
