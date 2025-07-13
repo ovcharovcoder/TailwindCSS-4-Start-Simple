@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "@tailwindcss/cli": "^4.1.11"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
     "tailwindcss": "^4.1.11"
   },
   "scripts": {
-    "build": "tailwindcss -i ./src/css/input.css -o ./src/css/style.css",
-    "watch": "tailwindcss -i ./src/css/input.css -o ./src/css/style.css --watch"
-  },
-  "devDependencies": {
-    "@tailwindcss/cli": "^4.1.11"
+    "build": "cross-env NODE_ENV=production npx tailwindcss -i css/input.css -o css/style.css --minify",
+    "watch": "npx tailwindcss -i css/input.css -o css/style.css --watch"
   }
 }
