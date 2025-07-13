@@ -67,7 +67,7 @@ src/
 ```
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-   content: ['./src/*.html', './src/js/*.{js,ts,jsx,tsx}'],
+   content: ['./*.html', './js/*.{js,ts,jsx,tsx}'],
   safelist: [
     // Layout containers
     'container-custom',
