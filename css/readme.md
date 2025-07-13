@@ -1,5 +1,6 @@
 // Example input.css
 
+```
 @config "../tailwind.config.js";
 @import 'tailwindcss';
 
@@ -298,3 +299,5 @@
     display: none;
   }
 }
+
+```
