@@ -1,0 +1,33 @@
+@config "../tailwind.config.js";
+@import 'tailwindcss';
+
+/* ======================= */
+/* Root & Theme Tokens  */
+/* ======================= */
+@layer base {
+  :root {...}
+
+  /* Optional base typography or resets */
+}
+
+/* ======================= */
+/* Component Layouts    */
+/* ======================= */
+/* Layout containers */
+@layer components {...}
+ 
+
+/* ======================= */
+/* UI Interactions     */
+/* ======================= */
+@layer utilities {...}
+
+/* ======================= */
+/* Third-party Plugins  */
+/* ======================= */
+...
+
+/* ======================= */
+/* Responsive Tweaks    */
+/* ======================= */
+...
