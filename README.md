@@ -18,8 +18,7 @@ This project is built with the following tools and technologies:
 
 ## Project structure
 ```
-src/
-│
+
 ├── css/
 │ ├── input.css # Main file for custom Tailwind and utility styles
 │ └── style.css # Output file (generated, should not be edited manually)
